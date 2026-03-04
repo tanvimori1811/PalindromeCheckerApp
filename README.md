@@ -30,3 +30,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC8-LinkedListP
 
 UC9 – Recursive Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC9-RecursivePalindrome
+
+UC10 – Case Insensitive Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC10-NormalizedPalindrome
