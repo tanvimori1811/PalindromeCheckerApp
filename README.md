@@ -12,3 +12,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC2-HardcodedPa
 
 UC3 – Reverse String Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC3-ReversePalindrome
+
+UC4 – Character Array Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC4-CharArrayPalindrome
