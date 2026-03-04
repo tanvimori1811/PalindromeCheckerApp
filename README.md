@@ -24,3 +24,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC6-QueueStackP
 
 UC7 – Deque Based Optimized Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC7-DequePalindrome
+
+UC8 – Linked List Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC8-LinkedListPalindrome
