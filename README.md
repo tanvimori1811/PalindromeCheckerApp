@@ -33,3 +33,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC9-RecursivePa
 
 UC10 – Case Insensitive Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC10-NormalizedPalindrome
+
+UC11 – Object Oriented Palindrome Service
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC11-OOP-PalindromeService
