@@ -27,3 +27,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC7-DequePalind
 
 UC8 – Linked List Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC8-LinkedListPalindrome
+
+UC9 – Recursive Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC9-RecursivePalindrome
