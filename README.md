@@ -39,3 +39,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC11-OOP-Palind
 
 UC12 – Strategy Pattern Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC12-StrategyPatternPalindrome
+
+UC13 – Performance Comparison
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC13-PerformanceComparison
