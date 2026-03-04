@@ -18,3 +18,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC4-CharArrayPa
 
 UC5 – Stack Based Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC5-StackPalindrome
+
+UC6 – Queue + Stack Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC6-QueueStackPalindrome
