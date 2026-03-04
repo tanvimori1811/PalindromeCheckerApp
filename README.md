@@ -15,3 +15,6 @@ Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC3-ReversePali
 
 UC4 – Character Array Palindrome
 Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC4-CharArrayPalindrome
+
+UC5 – Stack Based Palindrome
+Link: https://github.com/tanvimori1811/PalindromeCheckerApp/tree/UC5-StackPalindrome
